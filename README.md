@@ -1,5 +1,5 @@
 # Project Overview: PredictFX
-DeepQuantFX is a full-stack deep learning application designed to forecast Forex (foreign exchange) rates using a Hybrid CNN-LSTM architecture, coupled with MLOps best practices and real-time deployment.
+PredictFX is a full-stack deep learning application designed to forecast Forex (foreign exchange) rates using a Hybrid CNN-LSTM architecture, coupled with MLOps best practices and real-time deployment.
 
 This project combines:
 
