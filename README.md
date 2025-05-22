@@ -107,7 +107,7 @@ Attention-LSTM Test RMSE: 0.0165
 - Incorporate lagged features for USDCAD  
 - Add news sentiment analysis as additional input  
 - Deploy via Streamlit dashboard  
-- Explore XGBoost, TabNet, or transformer models  
+
 
 ---
 
@@ -115,10 +115,6 @@ Attention-LSTM Test RMSE: 0.0165
 
 **Aditya Rajpurohit** - [GitHub](https://github.com/aditya-rajpurohit)
 
-**Harshavardhan** - [GitHub](https://github.com/Harshav88)
+**Harshavardhan Gadila** - [GitHub](https://github.com/Harshav88)
 
 ---
-
-## License
-
-This project is licensed under the **MIT License**.  
