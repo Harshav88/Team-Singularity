@@ -3,7 +3,7 @@
 This project explores the prediction of the USD/CAD exchange rate using deep learning models informed by macroeconomic indicators from both the U.S. and Canada.
 
 ---
-
+Youtube Demo: [PredictFX](https://www.youtube.com/playlist?list=PLCGwaUpxPWO0atPI24EPdHW9Fp70Zmx1i)
 ## Overview
 
 We leverage:
